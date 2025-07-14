@@ -1,5 +1,5 @@
 ElderEase: AI-Powered Senior Tech Support Chatbot
-![ElderEase Chatbot Screenshot - An example screenshot of the ElderEase Chatbot](https://raw.githubusercontent.com/Dhriti-Sharma/ElderEase-Chatbot/main/Screenshot(6296).png)
+![ElderEase Chatbot Screenshot - An example screenshot of the ElderEase Chatbot](Screenshot(6296).png)
 
 ## Project Overview
 
