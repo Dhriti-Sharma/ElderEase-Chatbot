@@ -1,4 +1,4 @@
-ElderEase: AI-Powered Senior Tech Support Chatbot
+## ElderEase: AI-Powered Senior Tech Support Chatbot
 ![ElderEase Chatbot Screenshot - An example screenshot of the ElderEase Chatbot](Screenshot(6296).png)
 
 ## Project Overview
