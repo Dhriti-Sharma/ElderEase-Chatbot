@@ -2,11 +2,13 @@
 
 // --- Global Variables & Constants ---
 // Backend URL for your chat endpoint
-const BACKEND_CHAT_URL = 'http://localhost:3001/chat';
+// UPDATED: Using the live Render backend URL
+const BACKEND_CHAT_URL = 'https://elderease-chatbot.onrender.com/chat';
 // Backend URLs for Firestore operations
-const BACKEND_SAVE_CHAT_URL = 'http://localhost:3001/save-chat';
-const BACKEND_LOAD_CHAT_URL = 'http://localhost:3001/load-chat';
-const BACKEND_CLEAR_CHAT_URL = 'http://localhost:3001/clear-chat';
+// UPDATED: Using the live Render backend URL
+const BACKEND_SAVE_CHAT_URL = 'https://elderease-chatbot.onrender.com/save-chat';
+const BACKEND_LOAD_CHAT_URL = 'https://elderease-chatbot.onrender.com/load-chat';
+const BACKEND_CLEAR_CHAT_URL = 'https://elderease-chatbot.onrender.com/clear-chat';
 
 // GEMINI_MODEL is still defined, but the backend controls the actual model used.
 const GEMINI_MODEL = 'gemini-1.5-flash-latest'; 
