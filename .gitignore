@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables (for Gemini API key)
+.env
+
+# Firebase Service Account Key (VERY IMPORTANT: for Firestore access)
+firebase-service-account.json
+
+# Vercel specific files
+.vercel/
+
+# macOS specific files
+.DS_Store
+
+# Logs
+*.log
