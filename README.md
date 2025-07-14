@@ -46,4 +46,7 @@ ElderEase: AI-Powered Senior Tech Support Chatbot
 * **Frontend:** Deployed on Vercel.
 * **Backend:** Deployed on Render.
 
+## Project Link
+https://elder-ease-chatbot.vercel.app/
+
 ---
