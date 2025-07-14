@@ -1,6 +1,4 @@
 ElderEase: AI-Powered Senior Tech Support Chatbot
-Image: An example screenshot of the ElderEase Chatbot
-
 Project Overview
 ElderEase is an AI-powered conversational chatbot designed for senior citizens in India, aiming to help them resolve daily technical issues (such as WhatsApp, UPI payments, phone problems, etc.) with simple, step-by-step guidance. This project focuses on empowering seniors in the digital world and making technology more accessible for them.
 
